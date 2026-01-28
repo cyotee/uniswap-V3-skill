@@ -1,0 +1,19 @@
+{
+  "name": "uniswap-v3",
+  "version": "0.1.0",
+  "description": "Progressive disclosure skills for Uniswap V3 protocol development. Covers concentrated liquidity AMM, tick-based pricing, position management via NFTs, multi-hop swaps, TWAP oracles, and pool factory.",
+  "author": {
+    "name": "Uniswap Labs"
+  },
+  "keywords": [
+    "solidity",
+    "uniswap",
+    "concentrated-liquidity",
+    "amm",
+    "defi",
+    "nft-positions",
+    "twap-oracle",
+    "swap-router"
+  ],
+  "license": "GPL-2.0-or-later"
+}
